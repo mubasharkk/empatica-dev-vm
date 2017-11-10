@@ -10,7 +10,7 @@ keys:
     - ~/.ssh/id_rsa
 
 folders:
-    - map: ./../empatica/code
+    - map: ./../empatica
       to: /home/vagrant/code
 
 sites:
